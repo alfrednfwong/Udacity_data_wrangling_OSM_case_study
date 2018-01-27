@@ -5,6 +5,8 @@
 
 # In this case study we'll work with the map data of Hong Kong. http://www.openstreetmap.org/node/2833125787
 
+# case_study_osm.pdf is the full report
+
 # PSI_Street Name_062017.xml (the official list) is a file with the government-named streets/roads in both Chinese and English, the two official languages of Hong Kong.
 
 # audit_bilingual_street_names.py is for auditing street names in the 3 tags that are supposed to be there. The print out is a list of streets that can be matched to the official list, and yet have one or more values missing or cannot be matched to the corresponding translation in the official list.
