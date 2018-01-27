@@ -1,0 +1,4 @@
+The OSM map studied in the project is mainly of Hong Kong with a little bit of Shenzhen, China.
+http://www.openstreetmap.org/node/2833125787
+I pick this area because it is my home. Shenzhen is included because there is no way to export precisely along the borders of Hong Kong.
+It's a metropolis with a population of ~ 7 million. Densly populated, busy, noisy. Not much of agriculture to speak of but quite some rural areas because of town planning.
