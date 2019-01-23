@@ -1,5 +1,6 @@
 # Udacity_data_wrangling_OSM_case_study
 
+# A project for the course Data Wrangling at Udacity, by Alfred Wong
 
 # This is a case study of some map data from the openstreetmap.org. We'll parse the data from an XML file exported from their website, clean up two problems we have found in the data, import it into an SQL database, and explore the data.
 
